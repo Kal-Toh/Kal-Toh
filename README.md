@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kal-Toh
-- 👀 I’m interested in Python and Swift
-- 🌱 I’m currently learning the fundermentals of both with the goal of learning enough to be employed within a year
+- 👋 Hi, I’m Rory
+- 👀 I’m a Software Developer coding in JavaScript, Node.js, and Python
+- 🌱 I’m currently completeing a Software Development Bootcamp, creating projects and building my portfolio 
 - 📫 @KadisKot on Twitter
 
 <!---
