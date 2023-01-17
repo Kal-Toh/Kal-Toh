@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rory
-- 👀 I’m a Software Developer coding in JavaScript, Node.js, and Python
-- 🌱 I’m currently completeing a Software Development Bootcamp, creating projects and building my portfolio 
+- 👀 I’m learning to code in JavaScript, Node.js, and Python
+- 🌱 I’m currently completeing a Software Development Bootcamp, working on personal projects and building my portfolio 
 - 📫 @KadisKot on Twitter
 
 <!---
