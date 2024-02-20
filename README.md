@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rory
-- 👀 I’m currently working as a Software Developer in one of the UK's largest data companies.
+- 👀 I’m currently working as a Software Developer at one of the UK's largest data companies.
 - 🌱 I'm currently working on improving knowladge in Apache Spark, CI/CD tools and c#
 - 📫 @KadisKot on Twitter
 
